@@ -21,6 +21,7 @@ public class Task3 {
    //hello world
         // I love java
         //burak
+        //yeni
 
     }
 
