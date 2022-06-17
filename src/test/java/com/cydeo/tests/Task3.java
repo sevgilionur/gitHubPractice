@@ -2,9 +2,10 @@ package com.cydeo.tests;
 
 public class Task3 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { //(Burak)
+        System.out.println("hello = " );
 
-       //This is anew class for conflict
+       //This is anew class for conflict(güngör)
 
     }
 }
