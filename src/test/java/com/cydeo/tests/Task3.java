@@ -10,5 +10,20 @@ public class Task3 {
         /*
         I am texting on these lines..
          */
+
+
+
+
+
+
+
+
+   //hello world
+        // I love java
+        //burak
+
     }
+
+
+
 }
